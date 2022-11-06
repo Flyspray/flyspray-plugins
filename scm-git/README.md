@@ -1,1 +1,1 @@
-placeholder for git integration
+placeholder for git source code management
