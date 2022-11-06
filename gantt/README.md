@@ -2,7 +2,7 @@
 
 Gantt view of a Flyspray project.
 
-When installed, Gantt view can be enabled on project level. In project preferences toggle 'Enable Gantt view'. 
+When installed, Gantt view can be enabled on project level. In the project preferences toggle 'Enable Gantt view'. 
 
 ## INSTALL
 
