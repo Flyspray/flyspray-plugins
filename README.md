@@ -1,4 +1,4 @@
-Extensions or Experiments that are not (yet) part of Flyspray
+# Extensions or Experiments that are not (yet) part of Flyspray
 
 Well, Flyspray yet has no real plugin system and will not get some in short future. (2022-2023 at least)
 
